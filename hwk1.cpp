@@ -1,8 +1,3 @@
-//Aaron Shehan    ats0109    aaronshehan@my.unt.edu
-//CSCE 1040
-//HW1
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "student.h"
